@@ -22,24 +22,6 @@ public class Promedio {
         double promedio=suma/3;
         
         System.out.println("promedio = " + promedio);
-        
-        if(promedio >7)
-            System.out.println("buen promedio");
-        else
-            System.out.println("esfuerzate más");
-        
-//        if(promedio<6){
-//            System.out.println("El promedio es: " + promedio+ " que mal");  
-//        }
-//        else if(promedio==10){
-//            System.out.println("El promedio es: " + promedio + "promedio excelente");
-//        }
-//        else if(promedio>8){
-//            System.out.println("El promedio es: " + promedio + " buen promedio");
-//        }
-//        else if(promedio>=6){
-//            System.out.println("El promedio es: " + promedio + " esfuerzate más");
-//        }
-                               
+                                              
     }
 }
