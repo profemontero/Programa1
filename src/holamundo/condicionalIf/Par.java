@@ -2,7 +2,7 @@ package holamundo.condicionalIf;
 
 import java.util.Scanner;
 
-public class EsPar {
+public class Par {
     public static void main(String[] args) {
         
         Scanner scan = new Scanner(System.in);
